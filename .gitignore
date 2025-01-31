@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/EfWorkshopSolution
+/CompanyApp.Core/bin/Debug/net8.0
+/CompanyApp.Core/obj
+/CompanyApp.DAL/bin/Debug/net8.0
+/CompanyApp.DAL/obj
+/CompanyApp.Domain/bin/Debug/net8.0
+/CompanyApp.Domain/obj
+/CompanyApp.Infrastructure/bin/Debug/net8.0
+/CompanyApp.Infrastructure/obj
+/CompanyApp.Web/bin/Debug/net8.0
+/CompanyApp.Web/obj
